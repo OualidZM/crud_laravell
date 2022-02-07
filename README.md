@@ -106,4 +106,4 @@ Si se quiere utilizar una cuenta sin permisos, utilizaras la siguiente:
     email: test12@gmail.com
     password: testeo15
 
-Las cuentas que se crean, tendrán permiso User, por lo tanto, tiene una funcionalidad limitada.
+Las cuentas que se crean, tendrán un role user, por lo tanto, tiene una funcionalidad limitada.
